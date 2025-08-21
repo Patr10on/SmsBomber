@@ -1,0 +1,2 @@
+# SmsBomber
+Just educational
